@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155018681615",
+    "firebase_url": "https://marcadoresdinamicosfirebase.firebaseio.com",
+    "project_id": "marcadoresdinamicosfirebase",
+    "storage_bucket": "marcadoresdinamicosfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155018681615:android:d0c3c2b25b3d55ffbcf27a",
+        "android_client_info": {
+          "package_name": "com.example.marcdoresdinamicosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155018681615-6tfk9meb2equhno1i5suefi675201iav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcdoresdinamicosfirebase",
+            "certificate_hash": "4dbb25ca01508a59c87fe8e9bee8f7b5f406a348"
+          }
+        },
+        {
+          "client_id": "155018681615-go8jokpc9ql2t7e154mc5vhh0rs76rau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVes4iXCHqa2U_vGL-4cxWLb1eR5df7Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155018681615-go8jokpc9ql2t7e154mc5vhh0rs76rau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
